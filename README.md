@@ -5,7 +5,7 @@
 ## Performance reviews (before and after):
 
 <img src="./assets/performance review screenshots/First Performance Test.PNG" alt="#" />
-<hr>
+
 <img src="./assets/performance review screenshots/Second Performance Test.jpeg" alt="#" />
 <hr>
 
