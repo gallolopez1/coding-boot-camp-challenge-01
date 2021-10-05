@@ -4,8 +4,8 @@
 
 ## Performance reviews (before and after):
 
-<img src="./assets/performance review screenshots/Compare.PNG" alt="#" />
-<img src="./assets/performance review screenshots/Compare.PNG" alt="#" />
+<img src="./assets/performance review screenshots/First Performance Test.PNG.PNG" alt="#" />
+<img src="./assets/performance review screenshots/Second Performance Test.jpeg" alt="#" />
 
 ## Challenge Instructions:
 
